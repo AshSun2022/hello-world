@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=decvice-width,intial-scale=1"/>
+<title> </title>
+</head>
+<body><div style=text-align:center;
+background-color:Linen;
+padding:50px;">
+<a href=" ">
+</a>
+</div>
+</body>
+</html>
